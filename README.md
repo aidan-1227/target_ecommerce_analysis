@@ -42,7 +42,7 @@ The dataset includes detailed information on 100,000 orders, covering aspects su
      - Very expensive products tend to have a very low number of orders, reflecting limited demand for high-priced items.
 
 ### Visualizations
-![Alt Text](target_ecommerce_analysis/images/image.png)
+![Alt Text](target_ecommerce_analysis/images/Dashboard 1.png)
 
 ### Insights and Conclusions
 
