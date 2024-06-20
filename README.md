@@ -3,7 +3,7 @@
 ### Overview of Target E-commerce Project
 
 **Project Description:**
-This project aims to analyze Target's e-commerce operations in Brazil from. The analysis focuses on identifying key sales trends, customer behaviors, and geographic patterns to provide actionable insights for optimizing business strategies.
+This project aims to analyze Target's e-commerce operations in Brazil. The analysis focuses on identifying key sales trends, customer behaviors, and geographic patterns to provide actionable insights for optimizing business strategies.
 
 **Data Source:**
 The dataset includes detailed information on 100,000 orders, covering aspects such as order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews.
