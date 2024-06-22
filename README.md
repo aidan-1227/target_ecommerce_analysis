@@ -12,7 +12,7 @@ The dataset includes detailed information on 100,000 orders, covering aspects su
 ![Schema](images/inbox-15074417-b15a300fe807965428250762308c248b-Untitled.png)
 
 **Tools Used:**
-- SQL for data querying and manipulation (see 'analysis_queries.sql' to view sql queries)
+- SQL for data querying and manipulation. [Click here](analysis_queries.sql) to view sql queries
 - Tableau for data visualization
 
 **Objectives:**
